@@ -1,3 +1,7 @@
+/en_core_web_lg
+abstracts.csv
+LabelBoxExample.csv
+sw_lang_pattern.jsonl
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
